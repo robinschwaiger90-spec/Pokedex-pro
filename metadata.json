@@ -1,0 +1,6 @@
+{
+  "name": "Pokédex Pro",
+  "description": "Ein vollständiger, interaktiver Pokédex mit Generationen 1–9, Typ-Effektivitäten, Entwicklungen, Rufen, Team-Builder, Quiz, Rotom-KI Chat, Live-Pokémon-Kamera-Scanner und Pokémon TCG Sammelkarten-Browser mit 3D-Holo-Effekten & Booster-Pack-Simulator.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
